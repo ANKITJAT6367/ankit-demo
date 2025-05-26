@@ -1,4 +1,4 @@
 # ankit-demo
 This is my first Git  Reposetry.
 <br/>
-Auther - Ankit Serawat!
+Auther - Ankit Serawat (Onepixel)
